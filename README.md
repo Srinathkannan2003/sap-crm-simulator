@@ -236,7 +236,3 @@ Create screenshots of:
 | SAP Fiori | Design language and UX patterns |
 
 ---
-
-## 📄 License
-
-MIT — free to use for portfolio and educational purposes.
